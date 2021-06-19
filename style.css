@@ -4,15 +4,18 @@
 }
 
 
-img {
-    align-content: center;
-}
+img{
+    display:block;
+    margin:auto;
+    }
 
 .introducion 
 .intro_title {
     display: block;
     color: teal;
     text-align: center;
+    font-size: 25px;
+    font-weight: 700;
 }
 
 .introducion 
@@ -21,4 +24,5 @@ img {
     color: white;
     height: auto;
     text-align: center;
+    font-weight: 500;
 }
