@@ -3,11 +3,15 @@
     color: white;
 }
 
-
-img{
+.foto_perfil{
     display:block;
     margin:auto;
-    }
+}
+
+.foto_perfil img{
+    display:block;
+    margin:auto;
+}
 
 .introducion 
 .intro_title {
