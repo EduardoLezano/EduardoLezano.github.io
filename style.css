@@ -1,0 +1,24 @@
+*{
+    background-color: #222222;
+    color: white;
+}
+
+
+img {
+    align-content: center;
+}
+
+.introducion 
+.intro_title {
+    display: block;
+    color: teal;
+    text-align: center;
+}
+
+.introducion 
+.intro_descripcion {
+    display: block;
+    color: white;
+    height: auto;
+    text-align: center;
+}
