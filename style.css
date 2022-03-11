@@ -3,6 +3,24 @@
     color: white;
 }
 
+h1{
+    font-size: 35px;
+    background-color: orange;
+    color: black;
+
+    margin: 0px;
+    padding: 0px;
+}
+
+h2{
+    font-size: 25px;
+    background-color: #ffffffaa;
+    color: orangered;
+
+    margin: 0px;
+    padding: 0px;
+}
+
 .foto_perfil{
     display:block;
     margin:auto;
@@ -76,4 +94,4 @@ li{
         margin: 0;
         width: 100%;
     }
-  }
+}
